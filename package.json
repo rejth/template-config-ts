@@ -27,8 +27,8 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "prettier:fix": "prettier  --write src/**/*.{ts,tsx}",
-    "ts:check": "eslint --debug \"src/**/*.{ts,tsx}\"",
-    "ts:fix": "eslint --debug \"src/**/*.{ts,tsx}\" --fix",
+    "js:check": "eslint --debug \"src/**/*.{ts,tsx}\"",
+    "js:fix": "eslint --debug \"src/**/*.{ts,tsx}\" --fix",
     "css:check": "npx stylelint \"src/**/*.{css,scss,sass}\"",
     "css:fix": "npx stylelint \"src/**/*.{css,scss,sass}\" --fix"
   },
